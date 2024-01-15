@@ -23,7 +23,7 @@ Welcome to the BrainTech Bootstrap Template project! This is a sleek, modern web
 
 ## Setup
 
-Clone the repository and run the following command to start the development server:
+Clone the repository:
 [git clone https://github.com/Vergos1/project_OLD-Braintech.git](https://github.com/Vergos1/project_OLD-Braintech.git)
 
 ## Created by
